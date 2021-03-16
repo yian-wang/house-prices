@@ -16,4 +16,4 @@ The purpose of this project is to use simple linear regression (SLR) to build a 
 * Jupyter
 
 ## Data Source
-The data was provided through the course assignment in STA303/1001 at University of Toronto
+The data was provided through the course assignment in STA302/1001 at University of Toronto
